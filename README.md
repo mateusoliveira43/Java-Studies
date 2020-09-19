@@ -62,10 +62,5 @@ Summary of [w3schools Java Tutorial].
   - Interface use the `implements` keyword.
   - `enum`: NomeClasse.values().
 
-
-Stopped at https://www.w3schools.com/java/java_arraylist.asp
-
-Further step: write scripts to train.
-
 [w3schools Java Tutorial]: https://www.w3schools.com/java/default.asp
 [Java]: https://www.java.com/
